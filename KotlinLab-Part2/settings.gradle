@@ -1,3 +1,5 @@
 rootProject.name = 'KotlinLab-Part2'
 include 'Ch03'
+include 'Ch04'
+include 'Ch05'
 
