@@ -1,0 +1,3 @@
+rootProject.name = 'KotlinLab-Part3'
+include 'Ch07'
+
